@@ -24,17 +24,27 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Laporan Praktikum
 
-To learn more about Next.js, take a look at the following resources:
+|  | Pemrograman Berbasis Framework 2025 |
+|--|--|
+| NIM |  2241720169|
+| Nama |  Lalu Immaratul Ardhi Ganeru |
+| Kelas | TI - 3B |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+## Membuat Halaman Server Side Rendering (SSR)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Menggunakan Static Site Generation (SSG)
 
-## Deploy on Vercel
+## Menggunakan Dynamic Routes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Menggunakan API Routes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## Menggunakan Link Component
+
+## Tugas 1
+Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users.
+## Tugas 2
+Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID.
+## Tugas 3
+Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
