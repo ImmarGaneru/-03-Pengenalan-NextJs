@@ -33,18 +33,21 @@ This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-appl
 | Kelas | TI - 3B |
 
 ## Membuat Halaman Server Side Rendering (SSR)
-
+![img.png](images/img.png)
 ## Menggunakan Static Site Generation (SSG)
-
+![img_1.png](images/img_1.png)
 ## Menggunakan Dynamic Routes
-
+![img_3.png](images/img_3.png)
 ## Menggunakan API Routes
-
+![img_2.png](images/img_2.png)
 ## Menggunakan Link Component
-
+![img_4.png](images/img_4.png)![img_5.png](images/img_5.png)
 ## Tugas 1
 Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users.
+![img_6.png](images/img_6.png)
 ## Tugas 2
 Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID.
+![img_7.png](images/img_7.png)
 ## Tugas 3
 Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
+![img_8.png](images/img_8.png)
